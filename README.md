@@ -1,9 +1,8 @@
 # country flags project
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 [![GitHub Up to Date](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml/badge.svg)](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/actions/workflows/rep-actions.yml)
 ![](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
-![GitHub Repo stars](https://img.shields.io/github/stars/yasinnaal/Github-Markdown-Cheatsheet) <br>
+<br>
 
 The country names, country codes and flags were taken directly from the Wikipedia.
 
