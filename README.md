@@ -6,9 +6,9 @@
 
 For suggestions or feedback write to me [here](https://github.com/yasinnaal/country-flags-project/issues)<br>
 
-
+(source Wikipedia)<br>
 The country names, country codes and flags were taken directly from the Wikipedia.<br>
-There are no political motives, or any political goals. (source Wikipedia).
+There are no political motives, or any political goals.
 
 ---
 
