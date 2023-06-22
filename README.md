@@ -13,6 +13,8 @@ The purpose of ISO 3166 is to define internationally recognized codes of letters
 
 The country names, codes and flags were taken directly from the Wikipedia. There are no political motives, or any political goals (source Wikipedia). For suggestions or feedback write to me [here](https://github.com/yasinnaal/country-flags-project/issues)
 
+![](https://github.com/yasinnaal/country-flags-project/blob/main/docs-images/flags-banner.jpg)
+
 ---
 
 |Alpha-2 code|Name|Flag|
