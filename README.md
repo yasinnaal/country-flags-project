@@ -1,4 +1,4 @@
-# country flags project
+# 🚩 country flags project 
 
 ###### ISO 3166 - Country Codes
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
