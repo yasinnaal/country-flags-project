@@ -8,7 +8,7 @@ For suggestions or feedback write to me [here](https://github.com/yasinnaal/coun
 
 
 The country names, country codes and flags were taken directly from the Wikipedia.<br>
-There are no political motives, or any political goals.
+There are no political motives, or any political goals. (source Wikipedia).
 
 ---
 
