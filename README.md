@@ -1,4 +1,6 @@
 # country flags project
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 The country names, country codes and flags were taken directly from the Wikipedia.
 
