@@ -5,6 +5,7 @@ The country names, country codes and flags were taken directly from the Wikipedi
 There are no political motives, or any political goals.
 
 for any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/country-flags-project/issues)
+
 ---
 
 |Alpha-2 code|Name|Flag|
