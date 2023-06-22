@@ -1,4 +1,5 @@
 # 🚩 country flags project 
+![image](https://github.com/yasinnaal/country-flags-project/assets/42123587/51960e11-d99b-4f24-ab23-830a2792e982)
 
 ###### ISO 3166 - Country Codes
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
