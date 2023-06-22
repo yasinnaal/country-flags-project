@@ -231,7 +231,7 @@ There are no political motives, or any political goals.
 :turkmenistan:|`:turkmenistan:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tm.svg)
 :tunisia:|`:tunisia:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tn.svg)
 :tonga:|`:tonga:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/to.svg)
-:turkey:|`:turkey:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tr.svg)
+turkey|`:turkey:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tr.svg)
 :trinidad_and_tobago:|`:trinidad_and_tobago:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tt.svg)
 :tuvalu:|`:tuvalu:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tv.svg)
 :taiwan:|`:taiwan:`|![](https://raw.githubusercontent.com/yasinnaal/country-flags-project/5f5818fd51bffa6260982415c1584d17350aaba2/flags-svg/1x1/tw.svg)
